@@ -68,12 +68,33 @@ console.log(multiply);
 variable(50, 30, 80, 90, 85);   */
 
 
-/*function sum(a,b,c,d,e,f,g,h){
+
+/*note: abcd eta parameter R sum 1234 eta argument----*/
+
+/*function sum(a,b,c,d,e,f,g,h){                                
 const result = a+b+c+d+e+f+g+h
 
 console.log(result);
 }
 
-sum(1,2,3,4,5,6,7,8);  */
+sum(1,2,3,4,5,6,7,8);   */                          
+
+
+
+/*-----kono variable er maan client jokn dibe tokn ei condition diye control korbo---or convert korbo variable er maan...var name.to likhe---------*/
+
+
+let students = 'Web DEVELOPER';
+let learner = 'web Developer';
+
+if(students.toLowerCase=== learner.toLowerCase){
+    console.log('We are web developer');
+}
+
+else{
+    console.log('We are only khaing daieing and ghumaing ');
+
+}
+
 
 
