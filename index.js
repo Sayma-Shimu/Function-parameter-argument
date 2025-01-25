@@ -84,17 +84,34 @@ sum(1,2,3,4,5,6,7,8);   */
 /*-----kono variable er maan client jokn dibe tokn ei condition diye control korbo---or convert korbo variable er maan...var name.to likhe---------*/
 
 
-let students = 'Web DEVELOPER';
+/*let students = 'Web DEVELOPER';
 let learner = 'web Developer';
 
 if(students.toLowerCase=== learner.toLowerCase){
     console.log('We are web developer');
+
 }
 
 else{
     console.log('We are only khaing daieing and ghumaing ');
 
-}
+}   */
+
+
+
+    let students = 'Web DEVELOPER';
+    let stn = ['soyeb', 'ibne', 'quashem'];
+
+        console.log(students.length);
+        console.log(stn.length);
+        console.log(stn.indexOf('ibne'));
+    
+    
+    
+ 
+    
+    
+       
 
 
 
